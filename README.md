@@ -1,5 +1,7 @@
 # Lax - a Slack clone ![ci badge](https://github.com/yaroverg/LaxChat/actions/workflows/github-ci.yml/badge.svg)
 
+## Cloud
+This app is in the cloud at https://laxchat.herokuapp.com/.
 
 ## Requirements
 
