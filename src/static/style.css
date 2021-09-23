@@ -1,0 +1,71 @@
+
+.lax_wide #channels_block {
+  /* width: 20%; */
+  float: left;
+  background-color: cornsilk;
+}
+
+.lax_mobile #channels_block {
+  margin-left: 2.5%;
+  background-color: cornsilk;
+}
+
+.channel_element {
+  padding: 0px 0px 10px 10px;
+}
+
+.channel_unread {
+  padding: 0px 0px 0px 8px;
+}
+
+.lax_wide #current_channel {
+  /* width: 45%; */
+  float: left;
+  background-color: blanchedalmond;
+  margin-left: 2.5%;
+}
+
+.lax_mobile #current_channel {
+  background-color: blanchedalmond;
+  margin-left: 2.5%;
+}
+
+.chat_message {
+  padding: 0px 0px 8px 0px;
+}
+
+.chat_body {
+  padding: 0px 0px 2px 0px;
+}
+
+.lax_wide #thread {
+  /* width: 30%; */
+  float: right;
+  background-color: lavender;
+}
+
+.lax_mobile #thread {
+  margin-left: 2.5%;
+  background-color: lavender;
+}
+
+.thread_message {
+  padding: 0px 0px 8px 0px;
+}
+
+.thread_body {
+  padding: 0px 0px 2px 0px;
+}
+
+#close_thread_button {
+  margin-left: 20px;
+}
+
+#del_ch_button {
+  margin-left: 20px;
+}
+
+.return_button {
+  display: flex;
+  justify-content: center;
+}
